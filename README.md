@@ -1,19 +1,3 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
-  body {
-    font-family: 'Poppins', sans-serif;
-  }
-  h3 {
-    color: #fff; 
-    background-color: #000; 
-    padding: 10px; 
-    border-radius: 5px;
-  }
-  a:hover {
-    color: #00aaff !important;
-    transition: 0.3s;
-  }
-</style>
 
 <img src="Banner.jpg" alt="GitHub Banner" width="100%" />
 
