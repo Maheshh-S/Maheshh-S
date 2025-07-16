@@ -16,7 +16,7 @@
 
 ## 🔥 **Currently Working On**
 - **Revamping my portfolio with Next.js, Tailwind CSS, and Framer Motion.**
-- **Exploring OP, AI & Web3 technologies.**
+- **Exploring Open-Source, AI & Web3 technologies.**
 - **Sharpening my DSA & Problem-Solving skills.**
 
 ---
@@ -31,8 +31,6 @@
   <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js" alt="Next.js">
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-000?style=flat&logo=tailwindcss" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/-Framer%20Motion-000?style=flat&logo=framer" alt="Framer Motion">
-  <img src="https://img.shields.io/badge/-shadcn/ui-000?style=flat&logo=react" alt="shadcn/ui">
-  <img src="https://img.shields.io/badge/-Three.js-000?style=flat&logo=three.js" alt="Three.js">
 
 </p>
 
