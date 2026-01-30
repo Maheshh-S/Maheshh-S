@@ -15,8 +15,7 @@
 ---
 
 ## 🔥 **Currently Working On**
-- **Revamping my portfolio with Next.js, Tailwind CSS, and Framer Motion.**
-- **Exploring Open-Source, AI & Web3 technologies.**
+- **Exploring Open-Source & Web3 technologies.**
 - **Sharpening my DSA & Problem-Solving skills.**
 
 ---
